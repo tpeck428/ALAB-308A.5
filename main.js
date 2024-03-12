@@ -6,4 +6,7 @@ import {modName, animal, nowYouSeeMe, fastSaga, allergies, partyRockers} from '.
 
 console.log(modName);
 console.log(animal);
-console.log(nowYouSeeMe);
+console.log(nowYouSeeMe());
+console.log(fastSaga());
+console.log(allergies());
+console.log(partyRockers());
